@@ -5,19 +5,22 @@ I am currently finishing my Degree in Computer Engineering, missing the TFG and 
 ###Experience
 
 
-###-C++ projects:
+### -C++ projects:
 
 https://github.com/xgarcn00/c-DataStructures
+
 https://github.com/xgarcn00/Lab1EGUI-qt-
 
 
-###-C#:
+### -C#:
 
 
-###-Java:
+### -Java:
 
 https://github.com/xgarcn00/Hospital-Xijoja
+
 https://github.com/xgarcn00/ChatRSA
+
 https://github.com/xgarcn00/jadaxi
 
 
