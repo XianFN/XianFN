@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi my name is Xián Garcia Nogueira 👋
+
+I am currently finishing my Degree in Computer Engineering, missing the TFG and external internships to finish. I am looking for a job to expand my knowledge and finish my degree in the meantime. I love programming in C ++, but I have a great facility to adapt to any tool or language, given my educational experience in which I have handled many of them. I have total availability to move and motivation to start my work experience as a programmer.
+
+
+
+
+
 
 <!--
 **xgarcn00/xgarcn00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
