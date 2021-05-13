@@ -2,6 +2,23 @@
 
 I am currently finishing my Degree in Computer Engineering, missing the TFG and external internships to finish. I am looking for a job to expand my knowledge and finish my degree in the meantime. I love programming in C ++, but I have a great facility to adapt to any tool or language, given my educational experience in which I have handled many of them. I have total availability to move and motivation to start my work experience as a programmer.
 
+###Experience
+
+
+###-C++ projects:
+
+https://github.com/xgarcn00/c-DataStructures
+https://github.com/xgarcn00/Lab1EGUI-qt-
+
+
+###-C#:
+
+
+###-Java:
+
+https://github.com/xgarcn00/Hospital-Xijoja
+https://github.com/xgarcn00/ChatRSA
+https://github.com/xgarcn00/jadaxi
 
 
 
