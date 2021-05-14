@@ -7,54 +7,158 @@ I am currently finishing my Degree in Computer Engineering, missing the TFG and 
 
 ### -C++ projects:
 
-https://github.com/xgarcn00/c-DataStructures
+:blue_book: Data structures.
 
-https://github.com/xgarcn00/Lab1EGUI-qt-
+In this project I programm in C++/Clion:
+-Single Linked List
+-Doubly Linked Ring
+-ALV Tree
 
-https://github.com/XianFN/ALU-Logical-Arithmetic-Unit
+All with simple test cases
 
-https://github.com/XianFN/Homer-Car
+:seedling: https://github.com/xgarcn00/c-DataStructures
 
-https://github.com/XianFN/Simplecpp
+
+:blue_book: Recipe manager in C++/QT.
+
+
+:seedling: https://github.com/xgarcn00/Lab1EGUI-qt-
+
+:blue_book: Complete ALU in C++/QT using structs.
+
+:seedling: https://github.com/XianFN/ALU-Logical-Arithmetic-Unit
+
+:blue_book: Simple C++ window program.
+
+:seedling: https://github.com/XianFN/Homer-Car
+
+:blue_book: Simple C++ console program.
+
+:seedling: https://github.com/XianFN/Simplecpp
 
 
 ### -C#:
 
-https://github.com/XianFN/ASP-MVC
+:seedling: https://github.com/XianFN/ASP-MVC
 
 ### -Java:
 
-https://github.com/xgarcn00/Hospital-Xijoja
+:blue_book: Full project in Java.
 
-https://github.com/xgarcn00/ChatRSA
+Windowe Program in Java with:
+-Login
+-Server mariaDB(Raspberry)
+-Windos for each role.
 
-https://github.com/xgarcn00/jadaxi
+:seedling: https://github.com/xgarcn00/Hospital-Xijoja
 
-https://github.com/XianFN/Solitaire-Game
+:blue_book: Encripted chat with RSA.
 
-https://github.com/XianFN/Payroll-Calculator
+:seedling: https://github.com/xgarcn00/ChatRSA
 
-https://github.com/XianFN/XianPoly
+:blue_book: Full project in Java EE.
 
-https://github.com/XianFN/Snake
+Programm in Java EE using:
 
-https://github.com/XianFN/2-Threads
+-Server mariaDB(Raspberry)
+-Hibernate
+-Sequalize
+-JAVA
+-PrimeFaces
 
-https://github.com/XianFN/SimpleThreadExample
+This program is a recipe management Web Page that have:
+
+-Login
+-Email confirmation
+-Main screen for all users
+-Screens for each user
+-Reviews
+-Download PDF
+
+
+:seedling: https://github.com/xgarcn00/jadaxi
+
+:blue_book: Java Windowed Game.
+
+This project have 2 Solitaire Game:
+
+Clasic Solitaire game:
+  -Solve one step
+  -Solve all game step
+  -Undo
+  -Save
+  -Load
+  -General Stadistics
+  
+Jumping Solitaire game:
+  -Solve one step
+  -Solve all game step
+  -Undo
+  -Save
+  -Load
+  -General Stadistics
+  
+  Project done in 2016
+  
+  Executable: https://github.com/XianFN/Solitaire-Game/releases/tag/1.0 
+
+:seedling: https://github.com/XianFN/Solitaire-Game
+
+:blue_book: Payroll Calculator in JAVA.
+
+Java program that reads customer data from a database, calculates their corresponding payroll and taxes and exports them in pdf format
+
+:seedling: https://github.com/XianFN/Payroll-Calculator
+
+
+:blue_book: Monopoly Game
+
+Starting a monopoly game in JAva using Eclipse, it was left unfinished as I decided that it was not worth doing in JAVA
+
+:seedling: https://github.com/XianFN/XianPoly
+
+:blue_book: Snake Game
+
+:seedling: https://github.com/XianFN/Snake
+
+blue_book: Threads Programs
+
+:seedling: https://github.com/XianFN/2-Threads
+
+:seedling: https://github.com/XianFN/SimpleThreadExample
+
 
 Data Structure
 
-https://github.com/XianFN/seat-manager
+blue_book: Binary Search tree with all test pased
 
-https://github.com/XianFN/Double-Linked-List
+:seedling: https://github.com/XianFN/Binary-Search-Tree
 
-https://github.com/XianFN/Single-Linked-Ring
+blue_book: Simple Linked Ring with all test pased
 
-https://github.com/XianFN/Binary-Search-Tree
+:seedling: https://github.com/XianFN/Single-Linked-Ring
+
+blue_book: Doubly Linked List with all test pased
+
+:seedling: https://github.com/XianFN/Double-Linked-List
+
+blue_book: Simple POO in Arrays
+
+:seedling: https://github.com/XianFN/seat-manager
+
 
 ### -Vue
 
-https://github.com/XianFN/Recipes-Vue
+blue_book: Recipe managment in Vue
+
+Vue program with:
+
+  -Node.js
+  -Vue.js
+  -Vuetify
+  -Persistence
+
+:seedling: https://github.com/XianFN/Recipes-Vue
 
 ### -React
 
@@ -62,12 +166,14 @@ in progress..
 
 ### -TSQL
 
-https://github.com/XianFN/Twitch-Example-DataBase
+:seedling: https://github.com/XianFN/Twitch-Example-DataBase
 
 ### -C
 
-https://github.com/XianFN/Operating-Systems
+:seedling: https://github.com/XianFN/Operating-Systems
 
-https://github.com/XianFN/Airport-Simple-System
+:seedling: https://github.com/XianFN/Airport-Simple-System
+
+
 
 
