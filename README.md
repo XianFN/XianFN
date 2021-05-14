@@ -3,9 +3,9 @@
 I am currently finishing my Degree in Computer Engineering, missing the TFG and external internships to finish. I am looking for a job to expand my knowledge and finish my degree in the meantime. I love programming in C ++, but I have a great facility to adapt to any tool or language, given my educational experience in which I have handled many of them. I have total availability to move and motivation to start my work experience as a programmer.
 
 
-## -C++ projects:
+# -C++ projects:
 
-#### :blue_book: Data structures.
+## :blue_book: Data structures.
 
 
 In this project I programm in C++/Clion:
@@ -18,30 +18,32 @@ All with simple test cases
 
 :seedling: https://github.com/xgarcn00/c-DataStructures
 
-#### :blue_book: Recipe manager in C++/QT.
+## :blue_book: Recipe manager in C++/QT.
 
 :seedling: https://github.com/xgarcn00/Lab1EGUI-qt-
 
-#### :blue_book: Complete ALU in C++/QT using structs.
+## :blue_book: Complete ALU in C++/QT using structs.
 
 :seedling: https://github.com/XianFN/ALU-Logical-Arithmetic-Unit
 
-#### :blue_book: Simple C++ window program.
+## :blue_book: Simple C++ window program.
 
 :seedling: https://github.com/XianFN/Homer-Car
 
-#### :blue_book: Simple C++ console program.
+## :blue_book: Simple C++ console program.
 
 :seedling: https://github.com/XianFN/Simplecpp
 
 
-## -C# project:
+# -C# project:
+
+## :blue_book: Recipe Manager in .NET ASP-MVC.
 
 :seedling: https://github.com/XianFN/ASP-MVC
 
-## -Java projects:
+# -Java projects:
 
-#### :blue_book: Full project in Java.
+## :blue_book: Full project in Java.
 
 Windowe Program in Java with:
 - Login
@@ -50,11 +52,11 @@ Windowe Program in Java with:
 
 :seedling: https://github.com/xgarcn00/Hospital-Xijoja
 
-:blue_book: Encripted chat with RSA.
+## :blue_book: Encripted chat with RSA.
 
 :seedling: https://github.com/xgarcn00/ChatRSA
 
-:blue_book: Full project in Java EE.
+## :blue_book: Full project in Java EE.
 
 Programm in Java EE using:
 
@@ -76,7 +78,7 @@ This program is a recipe management Web Page that have:
 
 :seedling: https://github.com/xgarcn00/jadaxi
 
-:blue_book: Java Windowed Game.
+## :blue_book: Java Windowed Game.
 
 This project have 2 Solitaire Game:
 
@@ -102,7 +104,7 @@ Jumping Solitaire game:
 
 :seedling: https://github.com/XianFN/Solitaire-Game
 
-:blue_book: Payroll Calculator in JAVA.
+## :blue_book: Payroll Calculator in JAVA.
 
  Java program that reads customer data from a database  
  calculates their corresponding payroll and taxes  
@@ -110,18 +112,17 @@ Jumping Solitaire game:
 
 :seedling: https://github.com/XianFN/Payroll-Calculator
 
-
-:blue_book: Monopoly Game
+## :blue_book: Monopoly Game
 
 Starting a monopoly game in JAva using Eclipse, it was left unfinished as I decided that it was not worth doing in JAVA
 
 :seedling: https://github.com/XianFN/XianPoly
 
-:blue_book: Snake Game
+## :blue_book: Snake Game
 
 :seedling: https://github.com/XianFN/Snake
 
-:blue_book: Threads Programs
+## :blue_book: Threads Programs
 
 :seedling: https://github.com/XianFN/2-Threads
 
@@ -130,26 +131,26 @@ Starting a monopoly game in JAva using Eclipse, it was left unfinished as I deci
 
 Data Structure
 
-:blue_book: Binary Search tree with all test pased
+## :blue_book: Binary Search tree with all test pased
 
 :seedling: https://github.com/XianFN/Binary-Search-Tree
 
-:blue_book: Simple Linked Ring with all test pased
+## :blue_book: Simple Linked Ring with all test pased
 
 :seedling: https://github.com/XianFN/Single-Linked-Ring
 
-:blue_book: Doubly Linked List with all test pased
+## :blue_book: Doubly Linked List with all test pased
 
 :seedling: https://github.com/XianFN/Double-Linked-List
 
-:blue_book: Simple POO in Arrays
+## :blue_book: Simple POO in Arrays
 
 :seedling: https://github.com/XianFN/seat-manager
 
 
-## -Vue
+# -Vue
 
-:blue_book: Recipe managment in Vue
+## :blue_book: Recipe managment in Vue
 
 Vue program with:
 
@@ -160,15 +161,15 @@ Vue program with:
 
 :seedling: https://github.com/XianFN/Recipes-Vue
 
-## -React
+# -React
 
 in progress..
 
-## -TSQL
+# -TSQL
 
 :seedling: https://github.com/XianFN/Twitch-Example-DataBase
 
-## -C
+# -C
 
 :seedling: https://github.com/XianFN/Operating-Systems
 
