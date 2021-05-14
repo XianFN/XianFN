@@ -54,15 +54,15 @@ https://github.com/XianFN/Binary-Search-Tree
 
 ### -Vue
 
-https://github.com/XianFN?tab=repositories&q=&type=&language=vue&sort=
+https://github.com/XianFN/Recipes-Vue
 
 ### -React
 
 in progress..
 
-### -SQL
+### -TSQL
 
-https://github.com/XianFN?tab=repositories&q=&type=&language=tsql&sort=
+https://github.com/XianFN/Twitch-Example-DataBase
 
 ### -C
 
