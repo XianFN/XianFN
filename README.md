@@ -15,11 +15,9 @@ In this project I programm in C++/Clion:
 
 With test coverage.
 
-
 :seedling: https://github.com/xgarcn00/c-DataStructures
+
 <br>
-
-
 <br/>
 
 ## :blue_book: Recipe manager in C++/QT.
