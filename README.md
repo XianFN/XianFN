@@ -20,11 +20,7 @@ With test coverage.
 <br>
 
 
-
-
-
 <br/>
-
 
 ## :blue_book: Recipe manager in C++/QT.
 
