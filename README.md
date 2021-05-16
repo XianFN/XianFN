@@ -13,10 +13,11 @@ In this project I programm in C++/Clion:
 - Doubly Linked Ring
 - ALV Tree
 
-All with simple test cases
+With test coverage.
 
 
 :seedling: https://github.com/xgarcn00/c-DataStructures
+<br/>
 
 ## :blue_book: Recipe manager in C++/QT.
 
