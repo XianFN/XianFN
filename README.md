@@ -23,17 +23,26 @@ With test coverage.
 
 :seedling: https://github.com/xgarcn00/Lab1EGUI-qt-
 
+<br>
+
 ## :blue_book: Complete ALU in C++/QT using structs.
 
 :seedling: https://github.com/XianFN/ALU-Logical-Arithmetic-Unit
+
+<br>
 
 ## :blue_book: Simple C++ window program.
 
 :seedling: https://github.com/XianFN/Homer-Car
 
+<br>
+
 ## :blue_book: Simple C++ console program.
 
 :seedling: https://github.com/XianFN/Simplecpp
+
+<br>
+<br>
 
 
 # -C# project:
@@ -41,6 +50,8 @@ With test coverage.
 ## :blue_book: Recipe Manager in .NET ASP-MVC.
 
 :seedling: https://github.com/XianFN/ASP-MVC
+<br>
+<br>
 
 # -Java projects:
 
@@ -53,9 +64,13 @@ Windowe Program in Java with:
 
 :seedling: https://github.com/xgarcn00/Hospital-Xijoja
 
+<br>
+
 ## :blue_book: Encripted chat with RSA.
 
 :seedling: https://github.com/xgarcn00/ChatRSA
+
+<br>
 
 ## :blue_book: Full project in Java EE.
 
@@ -78,6 +93,8 @@ This program is a recipe management Web Page that have:
 
 
 :seedling: https://github.com/xgarcn00/jadaxi
+
+<br>
 
 ## :blue_book: Java Windowed Game.
 
@@ -105,6 +122,9 @@ Jumping Solitaire game:
 
 :seedling: https://github.com/XianFN/Solitaire-Game
 
+<br>
+
+
 ## :blue_book: Payroll Calculator in JAVA.
 
  Java program that reads customer data from a database  
@@ -113,21 +133,29 @@ Jumping Solitaire game:
 
 :seedling: https://github.com/XianFN/Payroll-Calculator
 
+<br>
+
 ## :blue_book: Monopoly Game
 
 Starting a monopoly game in JAva using Eclipse, it was left unfinished as I decided that it was not worth doing in JAVA
 
 :seedling: https://github.com/XianFN/XianPoly
 
+<br>
+
 ## :blue_book: Snake Game
 
 :seedling: https://github.com/XianFN/Snake
+
+<br>
 
 ## :blue_book: Threads Programs
 
 :seedling: https://github.com/XianFN/2-Threads
 
 :seedling: https://github.com/XianFN/SimpleThreadExample
+
+<br>
 
 
 Data Structure
@@ -136,18 +164,26 @@ Data Structure
 
 :seedling: https://github.com/XianFN/Binary-Search-Tree
 
+<br>
+
 ## :blue_book: Simple Linked Ring with all test pased
 
 :seedling: https://github.com/XianFN/Single-Linked-Ring
+
+<br>
 
 ## :blue_book: Doubly Linked List with all test pased
 
 :seedling: https://github.com/XianFN/Double-Linked-List
 
+<br>
+
 ## :blue_book: Simple POO in Arrays
 
 :seedling: https://github.com/XianFN/seat-manager
 
+<br>
+<br>
 
 # -Vue
 
@@ -162,13 +198,18 @@ Vue program with:
 
 :seedling: https://github.com/XianFN/Recipes-Vue
 
+<br>
+<br>
 # -React
 
 in progress..
-
+<br>
+<br>
 # -TSQL
 
 :seedling: https://github.com/XianFN/Twitch-Example-DataBase
+<br>
+<br>
 
 # -C
 
