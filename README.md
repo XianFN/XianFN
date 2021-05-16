@@ -17,7 +17,7 @@ With test coverage.
 
 
 :seedling: https://github.com/xgarcn00/c-DataStructures
-<br/>
+<br>
 
 
 
@@ -41,7 +41,7 @@ With test coverage.
 
 
 <br/>
-<br/><br/>
+
 
 ## :blue_book: Recipe manager in C++/QT.
 
