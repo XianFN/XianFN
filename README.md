@@ -137,7 +137,7 @@ Jumping Solitaire game:
 
 ## :blue_book: Monopoly Game
 
-Starting a monopoly game in JAva using Eclipse, it was left unfinished as I decided that it was not worth doing in JAVA
+Starting a monopoly game in Java using Eclipse, it was left unfinished as I decided that it was not worth doing in JAVA
 
 :seedling: https://github.com/XianFN/XianPoly
 
