@@ -1,6 +1,18 @@
 ### Hi my name is Xián Garcia Nogueira 👋
 
-I am currently finishing my Degree in Computer Engineering, missing the TFG and external internships to finish. I am looking for a job to expand my knowledge and finish my degree in the meantime. I love programming in C ++, but I have a great facility to adapt to any tool or language, given my educational experience in which I have handled many of them. I have total availability to move and motivation to start my work experience as a programmer.
+I am about to graduate in Computer Engineering, with only my Final Project outstanding
+and an optional subject to finish in December 2021. My main career goal is to learn from
+the experience of working in a robust and innovative company along with its staff.
+The knowledge acquired in my training does not fully reflect my ambition to work with
+new technologies, therefore, I am completely open to moving to any country, as I have
+done for the ERASMUS + program. In doing so, I am used to looking into the most
+cutting-edge alternatives in the computer market at an international level.
+I consider myself a motivated and curious person. My greatest strengths are adaptability as
+problem solving in an effective and swift way, development of new ideas, excellent
+cooperation and extensive teamwork skills.
+Growing professionally in a competitive company is my main goal. I would ideally like to
+work in an organisation that embraces my creativity while challenging and expanding my
+knowledge.
 
 
 # -C++ projects:
