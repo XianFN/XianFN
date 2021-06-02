@@ -33,7 +33,6 @@ With test coverage.
 <br>
 
 ## :blue_book: Top-Down parser for compiling.
-(In process)
 
 https://github.com/XianFN/Top-Down-Parser
 
