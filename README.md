@@ -1,4 +1,4 @@
-### Hi my name is Xián Garcia Nogueira 👋
+### Hi my name is Xián Filgueiras Nogueira 👋
 
 I am about to graduate in Computer Engineering, with only my Final Project outstanding to finish in July 2022. My main career goal is to learn from the experience of working in a robust and innovative company along with its staff.
 
