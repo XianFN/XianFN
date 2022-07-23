@@ -1,6 +1,6 @@
 ### Hi my name is Xián Filgueiras 👋
 
-I am about to graduate in Computer Engineering, with only my Final Project outstanding to finish in July 2022. My main career goal is to learn from the experience of working in a robust and innovative company along with its staff.
+My main career goal is to learn from the experience of working in a robust and innovative company along with its staff.
 
 The knowledge acquired in my training does not fully reflect my ambition to work with new technologies, therefore, I am completely  open to moving  to any country, as I have done for the ERASMUS + program. In doing so, I am used to looking into the most cutting-edge alternatives in the computer market at an international level.
 
