@@ -1,15 +1,18 @@
-### Hi my name is Xián Filgueiras 👋
+### Hi I am Xián Filgueiras 👋
 
-My main career goal is to learn from the experience of working in a robust and innovative company along with its staff.
+I am a dedicated and inquisitive Software Engineer with over two years of
+hands-on experience in the industry. My core strengths lie in adaptability,
+effective problem solving, bringing innovative ideas, and my ability to excel
+in a team-oriented environment.
 
-The knowledge acquired in my training and professional experience does not fully reflect my ambition to work with new technologies so I am used to
-looking into the most cutting-edge alternatives in the computer market at an international level.
+My educational and professional journey has forged me with a strong
+foundation, but my true passion lies in exploring the latest advancements
+in the world of software development.
 
-I consider myself a motivated and curious person. My greatest strengths are adaptability as problem solving in an effective and swift way, development of new ideas, excellent cooperation and extensive teamwork skills.
-
-Growing professionally in a competitive videogame company is my main goal. I would ideally like to work in an organization that embraces my creativity while challenging and expanding my knowledge.
-
-
+My primary career objective is to further my professional growth within an
+innovative and competitive organization. I am seeking an opportunity that
+not only values my creativity, but also challenges me to continually expand
+my knowledge and skills.
 
 
 
